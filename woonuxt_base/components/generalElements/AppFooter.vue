@@ -33,7 +33,7 @@ const versionInfo = `WooNuxt v${wooNuxtVersionInfo}`;
         <div class="mb-1 font-semibold">{{ $t('messages.general.customerService') }}</div>
         <div class="text-sm">
           <NuxtLink to="/contact" class="py-1.5 block">Contact Us</NuxtLink>
-          <a href="/" class="py-1.5 block">Shipping & Returns</a>
+          <a href="/shipping" class="py-1.5 block">Shipping & Returns</a>
           <a href="/" class="py-1.5 block">Privacy Policy</a>
           <a href="/" class="py-1.5 block">Terms & Conditions</a>
         </div>
